@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"/c/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-frontend/src/components\"/*.jsx)",
+      "Bash(npm run:*)",
+      "Bash(composer --version)",
+      "Bash(php --version)",
+      "Bash(composer create-project:*)",
+      "Bash(php artisan:*)",
+      "Bash(composer install:*)",
+      "Bash(powershell -Command \":*)",
+      "Bash(powershell -Command \"Get-ChildItem ''C:\\\\Users\\\\Zabdiel\\\\Desktop\\\\Empresa Gruas\\\\hostinger_deploy\\\\_app'' -Force | Select-Object Name\")",
+      "Bash(powershell -Command \"Get-ChildItem ''C:\\\\Users\\\\Zabdiel\\\\Desktop\\\\Empresa Gruas\\\\hostinger_deploy'' -Force | Select-Object Name, Length\")",
+      "Bash(powershell -Command \"\\(Get-Content ''C:\\\\Users\\\\Zabdiel\\\\Desktop\\\\Empresa Gruas\\\\hostinger_deploy\\\\_app\\\\resources\\\\views\\\\home.blade.php'' | Measure-Object -Line\\).Lines\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/exports/pdf.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/exports/pdf.blade.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/exports/word.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/exports/word.blade.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/routes/web.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/routes/web.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/app/Http/Controllers/HomeController.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/app/Http/Controllers/HomeController.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/app/Http/Controllers/DashboardController.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/app/Http/Controllers/DashboardController.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/layouts/employee.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/layouts/employee.blade.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/auth/login.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/auth/login.blade.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/dashboard.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/dashboard.blade.php\")",
+      "Bash(cp -f \"C:/Users/Zabdiel/Desktop/Empresa Gruas/hostinger_deploy/_app/resources/views/contacto.blade.php\" \"C:/Users/Zabdiel/Desktop/Empresa Gruas/gruas-kabod-laravel/resources/views/contacto.blade.php\")"
+    ]
+  }
+}
